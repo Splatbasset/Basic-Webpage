@@ -1,7 +1,6 @@
-# Basic-Webpage
-# Basic HTML Page Template Explanation
+# Basic-Webpage HTML Page Template Explanation
 
-This markdown file explains the components of a basic HTML page template.
+This markdown file explains the components of a basic HTML page template. You are free to use this to start your own webpage. This is just a simple codeblock so that you don't have to type everything out. 
 
 ## DOCTYPE Declaration
 `<!DOCTYPE html>`: This declaration defines the document to be HTML5, which is the latest standard of HTML.
